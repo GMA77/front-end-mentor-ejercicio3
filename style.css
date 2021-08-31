@@ -12,7 +12,7 @@ P{
     color: #fff;
     position: relative;
     margin:auto;
-    padding: 2rem;
+    padding: 1rem;
     width: 90%;
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.8rem;
@@ -84,7 +84,7 @@ P{
 @media only screen and (min-width: 600px){
 
     .main-container{
-        width: 65%;
+        width: 85%;
         flex-direction: row;
 
     }
